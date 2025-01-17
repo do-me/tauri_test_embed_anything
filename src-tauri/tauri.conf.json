@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "places",
   "version": "0.1.0",
-  "identifier": "com.places.app",
+  "identifier": "com.my-tauri-app-with-errors1.app",
   "build": {
     "frontendDist": "../src"
   },
